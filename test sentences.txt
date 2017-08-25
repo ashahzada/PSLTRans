@@ -3,3 +3,4 @@ He is opening the window.
 You look beautiful.
 I did not recognize you.
 Teacher has come in the class.
+Teacher is absent from the class.

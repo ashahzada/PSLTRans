@@ -19,6 +19,7 @@ Do white people not drink water?
 Do you ask strange questions?
 Do you not ask strange questions?
 He is studying.
+He is not studying.
 He is drinking water.
 He is not studying.
 He is not asking questions.
