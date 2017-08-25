@@ -51,6 +51,7 @@ import app.util.OutermostAppletFinder;
  *     playerIsAtFrame([int] frameIndex);
  *     playerIsDroppingFrame([int] frameIndex);
  *     playerAnimationIsDone([int] frameCount);
+ *     
  * </pre>
  *
  * <p>

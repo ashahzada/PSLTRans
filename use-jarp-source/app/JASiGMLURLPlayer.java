@@ -75,6 +75,8 @@ public class JASiGMLURLPlayer extends Applet {
 	private JTextField					txtJURL;
 /** Swing Status message label. */
 	private JLabel						lblJStatus;
+	
+	
 
 /** Constructs a new instance of this applet. */
 	public JASiGMLURLPlayer() {
